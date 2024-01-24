@@ -1,0 +1,31 @@
+Apparaat_ID,Type,Merk,Aankoopdatum,Status
+8fd06f1a-e7a6-4851-9509-81b6eeb91e27,Netwerkapparatuur,"Harvey, Powell and Mayo",2023-04-25,In Onderhoud
+b6aa4d71-efe8-4ca0-84f4-5a8ea1b84cec,Netwerkapparatuur,Berger-Moore,2023-06-16,In Onderhoud
+897f26b6-5f5d-43a6-b3cd-0cc40ea6f493,Laptop,Brown Ltd,2021-08-27,Operationeel
+26cd0d63-ab4e-47ac-bd6c-192952bb85f6,Laptop,"Mccarthy, Newton and Ferguson",2020-09-15,In Onderhoud
+3ac74de6-f3ef-4059-a4d1-ec418324b6ee,Server,Becker Group,2022-06-07,Vervanging Nodig
+02feb3e6-9be5-4a7a-b756-e1d6892e5b9d,Mobiel apparaat,Foley LLC,2019-02-08,Operationeel
+76b08699-416f-4edd-8c9e-e4c686b5e6b3,Mobiel apparaat,Sellers Ltd,2021-09-18,Operationeel
+bfbe091a-ff7f-4c36-b2c8-2124e4082169,Server,Watson and Sons,2020-12-10,In Onderhoud
+e21cddd4-3cb7-4edc-9797-7957387f682d,Laptop,Robinson Group,2021-04-14,In Onderhoud
+59ee0af8-02ce-47bb-866b-871d84064335,Laptop,"Brown, Fry and Alvarado",2022-12-19,Vervanging Nodig
+2675fc5b-0820-4b1a-a2f7-2e2e8922992f,Netwerkapparatuur,Arnold-Oconnor,2019-09-08,Operationeel
+463da2fa-0b0b-43cb-bb8f-2150a05dc48d,Mobiel apparaat,Pace Ltd,2020-12-03,Operationeel
+3715f81c-dfde-4bf8-aab2-581ee068eaac,Server,Floyd Inc,2019-06-17,Operationeel
+f1981b0e-66ce-41f0-9034-cf2f4888e9b0,Server,Miller-Murphy,2022-02-01,Vervanging Nodig
+3d63cecc-46e7-4184-abcf-2c1ddf4158e2,Laptop,Carlson PLC,2023-01-26,Operationeel
+8c5e180f-71cc-45c6-89df-6ba881eec9c6,Laptop,Hess and Sons,2020-11-13,Operationeel
+9a143787-7008-4c09-9868-901f0edfcf8d,Laptop,Boone-Oneill,2022-02-03,Operationeel
+6b028cd2-9faf-4681-9a68-12798b706a80,Mobiel apparaat,Cortez Group,2019-05-14,In Onderhoud
+d367d91a-b3a0-4b1b-b620-6d76315ba1dc,Netwerkapparatuur,"Atkins, Eaton and Vincent",2023-09-06,In Onderhoud
+d1773926-732e-476e-a892-e47c8bd989dc,Server,Logan-Miller,2020-01-29,Operationeel
+d0843f2f-e43c-49dc-9a20-7ea14924e921,Mobiel apparaat,Keller Group,2021-03-22,Vervanging Nodig
+708ac7d7-1ad3-4217-aa38-c85c68261a8f,Netwerkapparatuur,"Lawson, Joseph and Krueger",2022-05-05,Operationeel
+576a924e-99fd-49ec-9ab8-b5bf67440e3a,Laptop,Moreno PLC,2021-03-28,Operationeel
+a1da76a5-d405-40f8-abd1-2dbdcb6abfff,Netwerkapparatuur,"Brown, Anderson and Carter",2020-03-03,Operationeel
+2c427ee1-411d-422f-b32c-4a9a4e01e46b,Netwerkapparatuur,Cisneros-Fuentes,2019-05-20,In Onderhoud
+c0adec52-5601-492e-aa95-452f9a79da26,Netwerkapparatuur,"Leblanc, Miller and Adams",2021-10-03,In Onderhoud
+1de03802-d97b-44b0-9dbe-236433866f3c,Mobiel apparaat,"Vance, Brooks and Kennedy",2019-02-10,Operationeel
+ccf2f3d4-c229-455a-a622-750587e34a5c,Laptop,Martin-Williams,2020-08-13,In Onderhoud
+7caec691-7f09-4306-80d5-4e5d8a21f78a,Mobiel apparaat,Ray-White,2022-02-08,Operationeel
+bd34b8ef-2ef8-41e7-bd3b-b895ffe79452,Mobiel apparaat,"Meyers, Barrett and Flowers",2020-02-15,Operationeel

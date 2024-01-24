@@ -1,0 +1,51 @@
+Materiaal_ID,Type_Materiaal,Aantal,Locatie,Status
+db6d9b68-e84e-4201-9f15-53d7cb73f59c,Voedselvoorraden,829,Hyon,In Gebruik
+6ebe662e-81cc-4677-b84d-d3e187d167fd,Voedselvoorraden,885,Attert,Behoefte Aan Vervanging
+0f1bfd10-34c3-4868-b23e-b8ed35563389,Kleding,21,Grembergen,Behoefte Aan Vervanging
+eabd8c6a-278c-4d3f-bd6c-bc90173ed300,Tenten,339,Drieslinter,In Gebruik
+d24363c9-924e-445b-bd06-58f066e8f54f,Kleding,526,Rocourt,Behoefte Aan Vervanging
+3a5e6aef-14b0-433a-b575-1ce3ac4063b0,Kleding,628,Nieuwkerke,Beschikbaar
+1ce85e95-ebfb-40a8-b62c-692be578c5af,Tenten,649,Lommel,Behoefte Aan Vervanging
+c196ca5d-022f-47ec-b5c1-6c66b186802e,Kleding,809,Jollain-Merlin,In Gebruik
+22caa621-466f-425f-8186-40fd7dd339eb,Kleding,210,Peutie,Beschikbaar
+095b9755-c469-4635-a9e0-8c687679a831,Tenten,325,Antoing,Behoefte Aan Vervanging
+2b6b8bab-9f9d-4ea6-baeb-6962c6b78ad5,Medische Uitrusting,873,Galmaarden,Behoefte Aan Vervanging
+0a092004-45f2-428c-acdd-63ac6fa6b9a0,Kleding,914,Volkegem,Beschikbaar
+7b898c59-3938-49a0-8641-8609bc9b5f7c,Voedselvoorraden,986,Sint-Denijs,In Gebruik
+c1687b79-721d-4790-bb62-2087267b6a00,Kleding,512,Cheratte,Behoefte Aan Vervanging
+e087db98-be17-413a-a99f-18c4a4713201,Voedselvoorraden,419,Sirault,Behoefte Aan Vervanging
+5ea6d15d-3cc0-4a7b-8aad-9d7357f1b9f5,Medische Uitrusting,482,Evrehailles,In Gebruik
+8689070b-e1bd-4bd1-b118-b469ffd0ebb0,Kleding,584,Moelingen,In Gebruik
+3f34b0b4-9494-4a21-a7c9-f71e8013751b,Tenten,661,'s-Gravenvoeren,Beschikbaar
+cb9de4b9-580d-4d39-801f-a89c3714b45d,Kleding,566,Beerlegem,In Gebruik
+24dbfbba-e1fe-40fb-baa4-df8ed92931b8,Kleding,722,Zeebrugge,Beschikbaar
+960406b7-26e2-4557-be62-2a11620dcd57,Kleding,487,Guigoven,Behoefte Aan Vervanging
+96b5793d-0db7-424f-b39f-abb2f86689e2,Tenten,410,Richelle,Beschikbaar
+3baafdfd-a4f6-46b1-a1a7-48d710739b68,Tenten,213,Warisoulx,Beschikbaar
+3ca59d81-b6c5-491f-8c10-07ab3671050e,Voedselvoorraden,334,Hoeilaart,Behoefte Aan Vervanging
+8f972006-1aba-42a7-b4aa-47f758e2822a,Kleding,393,Wasmuel,In Gebruik
+aa69269b-bbf2-497c-8d41-56521eb35fad,Tenten,128,Jauche,In Gebruik
+a57ca7bb-d4e3-4652-b831-4a3bec4720d2,Voedselvoorraden,698,Poppel,Behoefte Aan Vervanging
+b06b88a8-1363-431a-9a22-87b138b24d47,Medische Uitrusting,24,Aubechies,Beschikbaar
+87289479-b334-4ba3-88e1-839a58ee5d01,Voedselvoorraden,325,Bas-Oha,In Gebruik
+2f4d8737-e3d8-41ef-b312-a1c29648d844,Kleding,27,Corroy-le-Grand,Beschikbaar
+a5e489ac-3338-4a5a-b8ce-404605208558,Medische Uitrusting,277,Saint-Nicolas,Beschikbaar
+a0f4de11-25c2-4bd4-a156-f94444ebc52f,Medische Uitrusting,677,Warsage,Behoefte Aan Vervanging
+ab9f3cce-d4c3-4b40-92d4-d0ebdce3ba89,Tenten,351,Wanfercée-Baulet,In Gebruik
+4080a65c-eeba-4752-a292-128d5f67cbd9,Tenten,481,Erquelinnes,Beschikbaar
+06628f86-c5df-4ba9-a632-32e7ff65d45b,Tenten,606,Rochefort,Behoefte Aan Vervanging
+5a43f487-d49b-4ba2-ac12-eea942e63a45,Voedselvoorraden,490,Saint-Gérard,In Gebruik
+52e60246-51ae-417a-a80e-0ccec7a2d488,Medische Uitrusting,400,Mechelen-Bovelingen,Behoefte Aan Vervanging
+5c18cefc-bf13-4746-928d-be90d0fa5a9b,Tenten,325,Wasmuel,Beschikbaar
+c9d30003-dc1d-480e-a4bc-8ca1ad11fdac,Voedselvoorraden,93,Archennes,In Gebruik
+86e6ed2d-265e-4fc5-8acd-8976b67ddec0,Kleding,590,Neerpelt,Behoefte Aan Vervanging
+910dffda-3c5e-4774-a125-ab3ff3ec6dab,Medische Uitrusting,836,Bovelingen,Beschikbaar
+edd7dddb-0096-49fe-88ec-25bc435704b9,Tenten,741,Meigem,Beschikbaar
+530f4fbf-5c61-4cce-89c3-e23931c289fc,Medische Uitrusting,599,Jesseren,Behoefte Aan Vervanging
+ac22b347-ae86-4883-a3a3-3a4a4136f2cb,Medische Uitrusting,388,Rillaar,Behoefte Aan Vervanging
+d7d09ffa-a6f0-4294-ba14-f5e15e435d3d,Kleding,668,Sint-Goriks-Oudenhove,Behoefte Aan Vervanging
+5b15bcf1-4c1d-4b17-ae70-e7691ec5665b,Medische Uitrusting,726,Sint-Eloois-Vijve,Beschikbaar
+8a980ec2-1a69-4b67-a203-d1c44df8eac6,Tenten,208,De Haan,In Gebruik
+1250e317-1371-4656-9d63-bd5a216ba034,Kleding,215,l'Escaillère,Behoefte Aan Vervanging
+33dc7743-3998-4c6a-8e7a-467f601c5140,Tenten,271,Pepinster,In Gebruik
+02223db3-375f-4dcb-a875-f0d9467c9172,Tenten,319,Templeuve,In Gebruik
